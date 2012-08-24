@@ -57,7 +57,7 @@ The parameter `options` is a JSON array that may use the following values:
 
 ## Website
 
-* [Home Page](http://joshgaber.ca/code-projects/jquery-innerlabel/)
+* [Home Page](http://joshgaber.ca/jquery-innerlabel/)
 * [GitHub](https://github.com/joshgaber/InnerLabel)
 
 ## Author
